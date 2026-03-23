@@ -76,7 +76,3 @@ During the testing phase, I intentionally attempted to bid **less** than the cur
     npm start
     ```
 
----
-
-## 👤 Author
-**Dharmala Teena Reddy**
